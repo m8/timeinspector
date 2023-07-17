@@ -31,5 +31,12 @@ Run all the tests.
 ## Citation
 
 ```
-
+@inproceedings{durmaz2023timeinspector,
+  title={TimeInspector: A Static Analysis Approach for Detecting Timing Attacks},
+  author={Durmaz, Fatih and Kamadan, Nureddin and {\"O}z, Melih Taha and Unal, Musa and Javeed, Arsalan and Yilmaz, Cemal and Savas, Erkay},
+  booktitle={2023 IEEE European Symposium on Security and Privacy Workshops (EuroS\&PW)},
+  pages={296--303},
+  year={2023},
+  organization={IEEE Computer Society}
+}
 ```
